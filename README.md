@@ -58,7 +58,7 @@ This project supported Timrow Traders’ international expansion strategy by ana
 
 ### Coffee Consumption Analysis by Demographics and Lifestyle
 
-![Tableau Dashboard](images/TableauDashboard.png)
+![Tableau Dashboard](images/Tableau_Dashboard.png)
 
 Tools & Skills: Python (Pandas), Tableau, Data Cleaning, Survey Analysis, Data Visualization, Consumer Behavior Insights
 
