@@ -43,21 +43,27 @@ Thanks for visiting my portfolio—I’m excited to share my projects and growth
 
 ---
 
-### Economic Analysis
+### ASEAN Economic Analysis for Market Expansion
 
-![Sales Dashboard](images/sales-dashboard.png)
+![PowerBI Dashboard](images/Dashboard.png)
 
-Created an interactive sales dashboard using **Power BI** to analyze regional sales trends, product performance, and customer segments. This project focuses on turning raw CSV data into strategic insights for stakeholders.
+Tools & Skills: Python (Pandas), SQL Server, Power BI, Data Cleaning, Economic Research, Market Analysis, Dashboard Design
+
+This project supported Timrow Traders’ international expansion strategy by analyzing 10 years of macroeconomic data across ASEAN countries. Using data from the IMF World Economic Outlook, it assessed key indicators like GDP, inflation, unemployment, and population trends to identify the most viable markets. The analysis concluded that Malaysia, Philippines, and Indonesia offer the strongest potential for growth, labor availability, and economic stability.
+
 
 🔗 [View Repository](https://github.com/yourusername/sales-dashboard-project)
 
 ---
 
-### Coffee Analysis
+### Coffee Consumption Analysis by Demographics and Lifestyle
 
-![Customer Churn](images/churn-model.png)
+![Tableau Dashboard](images/TableauDashboard.png)
 
-Built a machine learning model using **Python (Pandas, Scikit-learn)** to predict customer churn in the telecom industry. Includes EDA, feature engineering, classification modeling, and evaluation metrics.
+Tools & Skills: Python (Pandas), Tableau, Data Cleaning, Survey Analysis, Data Visualization, Consumer Behavior Insights
+
+This project analyzes coffee consumption patterns across age, gender, work environments, and employment status using survey data from the Great American Coffee Taste Test. Insights from the analysis help identify key consumer segments and provide strategic recommendations for product development and targeted marketing in the coffee industry.
+
 
 🔗 [View Repository](https://github.com/yourusername/churn-prediction)
 
